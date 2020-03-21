@@ -13,5 +13,5 @@ plot(neg(:,1),neg(:,2),'go');
 hold on;
 xlabel('x','Fontsize',15);
 ylabel('y','Fontsize',15);
-title('随机生成原始数据','Fontsize',20);
+title('脣忙禄煤脡煤鲁脡脭颅脢录脢媒戮脻','Fontsize',20);
 grid on;
