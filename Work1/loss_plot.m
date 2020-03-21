@@ -38,4 +38,4 @@ scatter3(theta_his(1,mask),theta_his(2,mask),theta_his(3,mask),40,'k^');
 xlabel('\theta_0','Fontsize',15);
 ylabel('\theta_1','Fontsize',15);
 zlabel('\theta_2','Fontsize',15);
-title('ËğÊ§º¯Êı¼°Ìİ¶ÈÏÂ½µÂ·¾¶','Fontsize',20);
+title('æŸå¤±å‡½æ•°åŠæ¢¯åº¦ä¸‹é™è·¯å¾„','Fontsize',20);
