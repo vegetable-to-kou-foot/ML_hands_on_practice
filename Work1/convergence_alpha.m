@@ -27,6 +27,6 @@ end
 iter(iter>=100000) = 100000;
 plot(1:length(iter),iter,'b-');
 xlabel('\alpha','Fontsize',15);
-ylabel('迭代次数','Fontsize',15);
-title('收敛速度','Fontsize',20);
+ylabel('碌眉麓煤麓脦脢媒','Fontsize',15);
+title('脢脮脕虏脣脵露脠','Fontsize',20);
 end
